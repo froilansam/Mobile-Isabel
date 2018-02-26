@@ -1,0 +1,37 @@
+{
+  "name": "duh",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-native-scripts": "1.11.1",
+    "jest-expo": "25.0.0",
+    "react-test-renderer": "16.2.0"
+  },
+  "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
+  "scripts": {
+    "start": "react-native-scripts start",
+    "eject": "react-native-scripts eject",
+    "android": "react-native-scripts android",
+    "ios": "react-native-scripts ios",
+    "test": "node node_modules/jest/bin/jest.js"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "axios": "0.17.1",
+    "expo": "^25.0.0",
+    "native-base": "2.3.5",
+    "react": "16.2.0",
+    "react-native": "0.52.0",
+    "react-native-geocoding": "^0.2.0",
+    "react-native-material-dropdown": "^0.6.1",
+    "react-native-modal-datetime-picker": "^4.13.0",
+    "react-native-modalbox": "^1.4.2",
+    "react-native-multiple-select-list": "^1.0.4",
+    "react-native-qrcode": "^0.2.6",
+    "react-native-router-flux": "4.0.0-beta.24",
+    "react-navigation": "1.0.0-beta.22",
+    "util": "*"
+  }
+}
