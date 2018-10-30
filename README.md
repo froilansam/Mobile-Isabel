@@ -1,3 +1,19 @@
+# Isabel: Traffic Violation Ticket Issuance Web and Mobile Application
+An application that uses QR-code technology to scan driver's license code quickly and save traffic violation ticket issuance time.
+
+## End-Users
+* Traffic Enforcer (Mobile-based) - has QR-Scanner Feature to scan driver's license code, and issue ticket in few clicks.
+* Driver (Mobile and Web-Based) - Monitoring of ticket violation.
+* Administrator (Web-based) - Monitor tickets, traffic enforcers, driver's license, and payments.
+
+## Built With
+* [ExpressJS](https://expressjs.com) - Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+* [PUG](https://pugjs.org/) - View Templating Engine.
+* [React-Native](https://facebook.github.io/react-native/) - React Native lets you build mobile apps using only JavaScript. It uses the same design as React, letting you compose a rich mobile UI from declarative components.
+
+
+# React Native Readme
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
